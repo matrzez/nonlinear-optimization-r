@@ -2,10 +2,10 @@
 
 ## 📌 Opis projektu
 
-Projekt z zakresu **optymalizacja nieliniowa**, który obejmuje poniższe zagadnienia:
-- Metoda ekspansji Boxa-Daviesa-Swanna
-- Metoda oparta na interpolacji Lagrange'a
-- Metoda Newtona z warunkiem Armijo
+Projekt z zakresu **optymalizacji nieliniowej**, który obejmuje poniższe zagadnienia:
+- Metodę ekspansji Boxa-Daviesa-Swanna
+- Metodę opartą na interpolacji Lagrange'a
+- Metodę Newtona z warunkiem Armijo
 
 
  Celem projektu jest zapoznanie się z metodami optymalizacji jednowymiarowej, zarówno gradientowymi, jak i bezgradientowymi, poprzez ich implementację oraz zastosowanie do wyznaczenia ekstremów dla podanej funkcji f.
