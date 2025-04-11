@@ -28,7 +28,7 @@ Projekt z zakresu **optymalizacji nieliniowej**, który obejmuje poniższe zagad
 
 ## 👨‍💻 Autorzy
 
-**Mateusz Rzeźnikiewicz** i **Patryk Ryba**
+**Mateusz Rzeźnikiewicz** i **Patryk Ryba**  
 Politechnika Rzeszowska, 2024  
 Opiekun: dr Krzysztof Pupka
 
