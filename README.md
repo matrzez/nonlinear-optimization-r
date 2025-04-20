@@ -30,6 +30,6 @@ Projekt z zakresu **optymalizacji nieliniowej**, który obejmuje poniższe zagad
 
 **Mateusz Rzeźnikiewicz** i **Patryk Ryba**  
 Politechnika Rzeszowska, 2024  
-Opiekun: dr Krzysztof Pupka
+Opiekun naukowy: dr Krzysztof Pupka
 
 ---
